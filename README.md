@@ -8,4 +8,5 @@ change 1
   change 3
   change 4
   change 5
+  change 6
 For running ppt download application from the ppt link and use the file to open the prezi.zip
